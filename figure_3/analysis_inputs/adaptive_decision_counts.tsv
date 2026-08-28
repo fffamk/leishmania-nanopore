@@ -1,0 +1,5 @@
+mode	origin	stop_receiving	unblock	no_decision	absent_from_decision_log
+Target enrichment	Human	117	62445	1309	12955
+Target enrichment	Leishmania	1705	0	0	17
+Human depletion	Human	18	146661	2388	5817
+Human depletion	Leishmania	147	30	2079	52

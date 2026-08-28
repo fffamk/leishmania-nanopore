@@ -1,0 +1,51 @@
+method	heldout_strain	true_species	called_species	supporting_fragments	percent_among_species_calls	species_level_calls
+competitive_alignment	JRCGR Lm01	Leishmania major	Leishmania major	3120	100	3120
+competitive_alignment	JRCGR Lm01	Leishmania major	Leishmania tropica	0	0	3120
+competitive_alignment	JRCGR Lm01	Leishmania major	Leishmania aethiopica	0	0	3120
+competitive_alignment	JRCGR Lm01	Leishmania major	Leishmania donovani	0	0	3120
+competitive_alignment	JRCGR Lm01	Leishmania major	Leishmania infantum	0	0	3120
+competitive_alignment	MHOM/LB/2017/IK	Leishmania tropica	Leishmania major	0	0	304
+competitive_alignment	MHOM/LB/2017/IK	Leishmania tropica	Leishmania tropica	8	2.63157894736842	304
+competitive_alignment	MHOM/LB/2017/IK	Leishmania tropica	Leishmania aethiopica	296	97.3684210526316	304
+competitive_alignment	MHOM/LB/2017/IK	Leishmania tropica	Leishmania donovani	0	0	304
+competitive_alignment	MHOM/LB/2017/IK	Leishmania tropica	Leishmania infantum	0	0	304
+competitive_alignment	MHOM/LB/2015/IK	Leishmania tropica	Leishmania major	0	0	427
+competitive_alignment	MHOM/LB/2015/IK	Leishmania tropica	Leishmania tropica	11	2.57611241217799	427
+competitive_alignment	MHOM/LB/2015/IK	Leishmania tropica	Leishmania aethiopica	416	97.423887587822	427
+competitive_alignment	MHOM/LB/2015/IK	Leishmania tropica	Leishmania donovani	0	0	427
+competitive_alignment	MHOM/LB/2015/IK	Leishmania tropica	Leishmania infantum	0	0	427
+competitive_alignment	L147	Leishmania aethiopica	Leishmania major	0	0	2780
+competitive_alignment	L147	Leishmania aethiopica	Leishmania tropica	0	0	2780
+competitive_alignment	L147	Leishmania aethiopica	Leishmania aethiopica	2780	100	2780
+competitive_alignment	L147	Leishmania aethiopica	Leishmania donovani	0	0	2780
+competitive_alignment	L147	Leishmania aethiopica	Leishmania infantum	0	0	2780
+competitive_alignment	HU3	Leishmania donovani	Leishmania major	0	0	286
+competitive_alignment	HU3	Leishmania donovani	Leishmania tropica	18	6.29370629370629	286
+competitive_alignment	HU3	Leishmania donovani	Leishmania aethiopica	0	0	286
+competitive_alignment	HU3	Leishmania donovani	Leishmania donovani	37	12.9370629370629	286
+competitive_alignment	HU3	Leishmania donovani	Leishmania infantum	231	80.7692307692308	286
+kraken2	JRCGR Lm01	Leishmania major	Leishmania major	3245	100	3245
+kraken2	JRCGR Lm01	Leishmania major	Leishmania tropica	0	0	3245
+kraken2	JRCGR Lm01	Leishmania major	Leishmania aethiopica	0	0	3245
+kraken2	JRCGR Lm01	Leishmania major	Leishmania donovani	0	0	3245
+kraken2	JRCGR Lm01	Leishmania major	Leishmania infantum	0	0	3245
+kraken2	MHOM/LB/2017/IK	Leishmania tropica	Leishmania major	5	0.231053604436229	2164
+kraken2	MHOM/LB/2017/IK	Leishmania tropica	Leishmania tropica	57	2.63401109057301	2164
+kraken2	MHOM/LB/2017/IK	Leishmania tropica	Leishmania aethiopica	2102	97.1349353049908	2164
+kraken2	MHOM/LB/2017/IK	Leishmania tropica	Leishmania donovani	0	0	2164
+kraken2	MHOM/LB/2017/IK	Leishmania tropica	Leishmania infantum	0	0	2164
+kraken2	MHOM/LB/2015/IK	Leishmania tropica	Leishmania major	10	0.297265160523187	3364
+kraken2	MHOM/LB/2015/IK	Leishmania tropica	Leishmania tropica	48	1.4268727705113	3364
+kraken2	MHOM/LB/2015/IK	Leishmania tropica	Leishmania aethiopica	3306	98.2758620689655	3364
+kraken2	MHOM/LB/2015/IK	Leishmania tropica	Leishmania donovani	0	0	3364
+kraken2	MHOM/LB/2015/IK	Leishmania tropica	Leishmania infantum	0	0	3364
+kraken2	L147	Leishmania aethiopica	Leishmania major	4	0.133377792597533	2999
+kraken2	L147	Leishmania aethiopica	Leishmania tropica	0	0	2999
+kraken2	L147	Leishmania aethiopica	Leishmania aethiopica	2995	99.8666222074025	2999
+kraken2	L147	Leishmania aethiopica	Leishmania donovani	0	0	2999
+kraken2	L147	Leishmania aethiopica	Leishmania infantum	0	0	2999
+kraken2	HU3	Leishmania donovani	Leishmania major	0	0	209
+kraken2	HU3	Leishmania donovani	Leishmania tropica	39	18.6602870813397	209
+kraken2	HU3	Leishmania donovani	Leishmania aethiopica	0	0	209
+kraken2	HU3	Leishmania donovani	Leishmania donovani	21	10.0478468899522	209
+kraken2	HU3	Leishmania donovani	Leishmania infantum	149	71.2918660287081	209

@@ -1,0 +1,4 @@
+order	method	scenario	specimens_per_batch_or_flowcell	usd_per_specimen	cost_scope	relative_output_per_specimen	model_basis
+1	endpoint_ITS_PCR	24-specimen fully loaded reference	24	4.95	fully_loaded		fully loaded endpoint-PCR reference model
+2	PromethION	channel_scaled_depth_match	84	29.7419246	consumables_only	0.9951636905	channel-normalized capacity model
+3	MinION	observed_depth_reference	16	72.34541667	consumables_only	1	study cohort capacity and optimized SQK-NBD114.96 allocation

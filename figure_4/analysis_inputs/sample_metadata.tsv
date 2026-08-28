@@ -1,0 +1,17 @@
+barcode	biopsy	pcr_status
+barcode01	Biopsy A	positive
+barcode02	Biopsy B	positive
+barcode03	PCR-negative biopsy	negative
+barcode04	Biopsy C	positive
+barcode05	Biopsy D	positive
+barcode06	Biopsy E	positive
+barcode07	Biopsy F	positive
+barcode08	Biopsy G	positive
+barcode09	Biopsy H	positive
+barcode10	Biopsy I	positive
+barcode11	Biopsy J	positive
+barcode12	Biopsy K	positive
+barcode13	Biopsy L	positive
+barcode14	Biopsy M	positive
+barcode15	Biopsy N	positive
+barcode16	Biopsy O	positive

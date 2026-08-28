@@ -1,0 +1,43 @@
+run_accession	known_species	marker_label	evidence_reads	resolved_reads	unresolved_reads	plurality_species	plurality_support	cell_state
+SRR20123517	Leishmania mexicana	ITS1	309	309	0	Leishmania mexicana	309	resolved
+SRR20123517	Leishmania mexicana	ITS2	277	277	0	Leishmania mexicana	277	resolved
+SRR20123517	Leishmania mexicana	Miniexon	6	6	0	Leishmania mexicana	6	resolved
+SRR20123517	Leishmania mexicana	HSP20	8	8	0	Leishmania mexicana	8	resolved
+SRR20123517	Leishmania mexicana	HSP70 coding	39	39	0	Leishmania mexicana	39	resolved
+SRR20123517	Leishmania mexicana	HSP70 3′ UTR	31	31	0	Leishmania mexicana	31	resolved
+SRR20123517	Leishmania mexicana	Cytochrome b	42	42	0	Leishmania mexicana	42	resolved
+SRR21601459	Leishmania infantum	ITS1	65	33	32	Leishmania infantum	33	resolved
+SRR21601459	Leishmania infantum	ITS2	65	16	49	Leishmania infantum	14	resolved
+SRR21601459	Leishmania infantum	Miniexon	51	46	5	Leishmania donovani	45	resolved
+SRR21601459	Leishmania infantum	HSP20	20	0	20		0	unresolved
+SRR21601459	Leishmania infantum	HSP70 coding	23	0	23		0	unresolved
+SRR21601459	Leishmania infantum	HSP70 3′ UTR	19	18	1	Leishmania infantum	18	resolved
+SRR21601459	Leishmania infantum	Cytochrome b	158	110	48	Leishmania infantum	110	resolved
+SRR22035125	Leishmania donovani	ITS1	99	37	62	Leishmania donovani	37	resolved
+SRR22035125	Leishmania donovani	ITS2	94	5	89	Leishmania infantum	3	resolved
+SRR22035125	Leishmania donovani	Miniexon	98	75	23	Leishmania donovani	58	resolved
+SRR22035125	Leishmania donovani	HSP20	13	0	13		0	unresolved
+SRR22035125	Leishmania donovani	HSP70 coding	36	0	36		0	unresolved
+SRR22035125	Leishmania donovani	HSP70 3′ UTR	32	9	23	Leishmania donovani	9	resolved
+SRR22035125	Leishmania donovani	Cytochrome b	4	0	4		0	unresolved
+SRR30096282	Leishmania panamensis	ITS1	297	0	297		0	unresolved
+SRR30096282	Leishmania panamensis	ITS2	292	267	25	Leishmania panamensis	255	resolved
+SRR30096282	Leishmania panamensis	Miniexon	311	216	95	Leishmania panamensis	167	resolved
+SRR30096282	Leishmania panamensis	HSP20	46	1	45	Leishmania braziliensis	1	resolved
+SRR30096282	Leishmania panamensis	HSP70 coding	119	0	119		0	unresolved
+SRR30096282	Leishmania panamensis	HSP70 3′ UTR	95	87	8	Leishmania panamensis	85	resolved
+SRR30096282	Leishmania panamensis	Cytochrome b	78	75	3	Leishmania panamensis	72	resolved
+SRR30096286	Leishmania guyanensis	ITS1	560	0	560		0	unresolved
+SRR30096286	Leishmania guyanensis	ITS2	597	522	75	Leishmania guyanensis	514	resolved
+SRR30096286	Leishmania guyanensis	Miniexon	981	602	379	Leishmania panamensis	471	resolved
+SRR30096286	Leishmania guyanensis	HSP20	43	4	39	Leishmania braziliensis	4	resolved
+SRR30096286	Leishmania guyanensis	HSP70 coding	124	1	123	Leishmania braziliensis	1	resolved
+SRR30096286	Leishmania guyanensis	HSP70 3′ UTR	105	23	82	Leishmania braziliensis	12	resolved
+SRR30096286	Leishmania guyanensis	Cytochrome b	97	93	4	Leishmania guyanensis	84	resolved
+SRR30096287	Leishmania braziliensis	ITS1	93	0	93		0	unresolved
+SRR30096287	Leishmania braziliensis	ITS2	100	54	46	Leishmania braziliensis	44	resolved
+SRR30096287	Leishmania braziliensis	Miniexon	141	114	27	Leishmania braziliensis	99	resolved
+SRR30096287	Leishmania braziliensis	HSP20	16	13	3	Leishmania braziliensis	13	resolved
+SRR30096287	Leishmania braziliensis	HSP70 coding	46	0	46		0	unresolved
+SRR30096287	Leishmania braziliensis	HSP70 3′ UTR	38	36	2	Leishmania braziliensis	36	resolved
+SRR30096287	Leishmania braziliensis	Cytochrome b	31	22	9	Leishmania braziliensis	20	resolved

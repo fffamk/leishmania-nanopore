@@ -1,0 +1,13 @@
+mode	origin	outcome	read_count	percent_of_all_classified_reads
+Target enrichment	Human	Ejected	62445	81.2810767188
+Target enrichment	Human	Continued	1426	1.8561424518
+Target enrichment	Human	No log	12955	16.8627808294
+Target enrichment	Leishmania	Ejected	0	0
+Target enrichment	Leishmania	Continued	1705	99.012775842
+Target enrichment	Leishmania	No log	17	0.987224158
+Human depletion	Human	Ejected	146661	94.6908654219
+Human depletion	Human	Continued	2406	1.5534206245
+Human depletion	Human	No log	5817	3.7557139537
+Human depletion	Leishmania	Ejected	30	1.2998266898
+Human depletion	Leishmania	Continued	2226	96.4471403813
+Human depletion	Leishmania	No log	52	2.2530329289

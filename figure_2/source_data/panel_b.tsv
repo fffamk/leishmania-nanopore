@@ -1,0 +1,16 @@
+biopsy	pcr_status	sequencing_positive	time_to_detection_minutes	censor_time_minutes	event_order
+Biopsy A	positive	true	87.57719999999999		11
+Biopsy B	positive	true	206.3757		14
+Biopsy C	positive	true	75.49071666666667		10
+Biopsy D	positive	true	4.027116666666667		1
+Biopsy E	positive	true	22.800966666666667		9
+Biopsy F	positive	true	6.599066666666667		4
+Biopsy G	positive	true	5.26565		2
+Biopsy H	positive	true	6.542583333333334		3
+Biopsy I	positive	true	19.302133333333334		7
+Biopsy J	positive	true	22.760033333333336		8
+Biopsy K	positive	true	15.0682		5
+Biopsy L	positive	true	92.13823333333333		12
+Biopsy M	positive	true	150.89511666666667		13
+Biopsy N	positive	false		3542.89824	
+Biopsy O	positive	true	16.818766666666665		6

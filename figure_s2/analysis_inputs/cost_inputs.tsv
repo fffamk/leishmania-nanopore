@@ -1,0 +1,28 @@
+key	value	unit	basis	source_url
+price_snapshot_date	2026-08-06	date	analysis setting	
+flowcell_flo_min114	840	USD_per_flowcell	Oxford Nanopore public US list price	https://store.nanoporetech.com/us/flow-cell-r10-4-1-114.html
+flowcell_flo_pro114m_pack	4160	USD_per_4_flowcells	Oxford Nanopore public US list price	https://store.nanoporetech.com/us/promethion-flow-cell-packs-r10-4-1-m-version-1.html
+flowcell_flo_pro114m_pack_count	4	flowcells_per_pack	Oxford Nanopore pack configuration	https://store.nanoporetech.com/us/promethion-flow-cell-packs-r10-4-1-m-version-1.html
+minion_channels	512	channels_per_flowcell	Oxford Nanopore technical specification	https://nanoporetech.com/products/sequence/minion
+promethion_channels	2675	channels_per_flowcell	Oxford Nanopore technical specification	https://store.nanoporetech.com/flow-cells.html
+observed_minion_capacity	16	specimens_per_flowcell	Observed study design	
+nbd96_kit	950	USD_per_kit	Oxford Nanopore public US list price	https://store.nanoporetech.com/us/native-barcoding-kit-96-v14.html
+nbd96_libraries_at_24plex	12	libraries_per_kit	Oxford Nanopore pack configuration	https://store.nanoporetech.com/us/native-barcoding-kit-96-v14.html
+nbd96_libraries_at_48plex	6	libraries_per_kit	Oxford Nanopore pack configuration	https://store.nanoporetech.com/us/native-barcoding-kit-96-v14.html
+nbd96_libraries_at_96plex	3	libraries_per_kit	Oxford Nanopore pack configuration	https://store.nanoporetech.com/us/native-barcoding-kit-96-v14.html
+ffpe_repair_mix	210	USD_per_pack	NEB M6630S public US list price	https://www.neb.com/en/products/m6630-nebnext-ffpe-dna-repair-mix
+ffpe_repair_specimens	96	specimens_per_pack	Derived from ONT protocol volume	https://nanoporetech.com/document/ligation-sequencing-gdna-native-barcoding-v14-sqk-nbd114-24
+endprep_module	279	USD_per_pack	NEB E7546S public US list price	https://www.neb.com/en-us/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module
+endprep_specimens	96	specimens_per_pack	Derived from ONT protocol volume	https://nanoporetech.com/document/ligation-sequencing-gdna-native-barcoding-v14-sqk-nbd114-24
+blunt_ta_ligase	119	USD_per_pack	NEB M0367S public US list price	https://www.neb.com/en/products/m0367-blunt-ta-ligase-master-mix
+blunt_ta_specimens	50	specimens_per_pack	NEB pack size and ONT reaction volume	https://www.neb.com/en/products/m0367-blunt-ta-ligase-master-mix
+quick_ligation_module	344	USD_per_pack	Current US catalogue benchmark	https://www.biocompare.com/11777-DNA-Ligation-Kits/983180-NEBNext-Quick-Ligation-Module/
+quick_ligation_libraries	20	libraries_per_pack	NEB E6056S pack size	https://www.neb.com/en-us/products/e6056-nebnext-quick-ligation-module
+qubit_hs_reagent	154	USD_per_100_assays	Thermo Fisher Q32851 public list price	https://www.thermofisher.com/order/catalog/product/Q32851
+qubit_assays	100	assays_per_pack	Thermo Fisher pack size	https://www.thermofisher.com/order/catalog/product/Q32851
+qubit_tubes	135	USD_per_500_tubes	Thermo Fisher Q32856 public list price	https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit/models/qubit-4.html
+qubit_tube_count	500	tubes_per_pack	Thermo Fisher pack size	https://www.thermofisher.com/order/catalog/product/Q32856
+nanopore_minor_variable	4	USD_per_specimen	Explicit model allowance	
+nanopore_minor_fixed	5	USD_per_library	Explicit model allowance	
+pcr_curve_n	1,4,8,16,24	specimens	Base-case throughput grid	
+pcr_curve_usd	56.11,15.91,9.20,5.85,4.95	USD_per_specimen	Base-case endpoint-PCR direct-cost model	

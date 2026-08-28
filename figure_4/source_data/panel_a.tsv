@@ -1,0 +1,33 @@
+biopsy	pcr_status	sequencing_positive	method	composition_status	major_reads	tropica_reads	aethiopica_reads	three_species_reads	leishmania_reads	other_or_genus_only_reads	major_fraction_of_three_species_calls	tropica_fraction_of_three_species_calls	aethiopica_fraction_of_three_species_calls
+Biopsy A	positive	true	alignment	reported	53	0	0	53	53	0	1	0	0
+Biopsy A	positive	true	kraken2	reported	75	0	0	75	75	0	1	0	0
+Biopsy B	positive	true	alignment	reported	21	0	0	21	21	0	1	0	0
+Biopsy B	positive	true	kraken2	reported	32	0	0	32	34	2	1	0	0
+Biopsy C	positive	true	alignment	reported	31	0	0	31	31	0	1	0	0
+Biopsy C	positive	true	kraken2	reported	46	0	0	46	48	2	1	0	0
+Biopsy D	positive	true	alignment	reported	2470	0	0	2470	2470	0	1	0	0
+Biopsy D	positive	true	kraken2	reported	4078	0	1	4079	4281	202	0.999754841873008	0	0.00024515812699191
+Biopsy E	positive	true	alignment	reported	83	0	0	83	83	0	1	0	0
+Biopsy E	positive	true	kraken2	reported	121	0	0	121	131	10	1	0	0
+Biopsy F	positive	true	alignment	reported	1559	0	0	1559	1559	0	1	0	0
+Biopsy F	positive	true	kraken2	reported	2462	0	0	2462	2566	104	1	0	0
+Biopsy G	positive	true	alignment	reported	568	0	0	568	568	0	1	0	0
+Biopsy G	positive	true	kraken2	reported	906	0	1	907	947	40	0.998897464167585	0	0.00110253583241455
+Biopsy H	positive	true	alignment	reported	599	0	0	599	599	0	1	0	0
+Biopsy H	positive	true	kraken2	reported	900	0	1	901	938	37	0.99889012208657	0	0.00110987791342952
+Biopsy I	positive	true	alignment	reported	181	0	0	181	181	0	1	0	0
+Biopsy I	positive	true	kraken2	reported	278	1	1	280	297	17	0.992857142857143	0.00357142857142857	0.00357142857142857
+Biopsy J	positive	true	alignment	reported	120	0	0	120	120	0	1	0	0
+Biopsy J	positive	true	kraken2	reported	181	0	0	181	188	7	1	0	0
+Biopsy K	positive	true	alignment	reported	3	23	258	284	284	0	0.0105633802816901	0.0809859154929577	0.908450704225352
+Biopsy K	positive	true	kraken2	reported	35	276	2019	2330	4953	2623	0.0150214592274678	0.118454935622318	0.866523605150215
+Biopsy L	positive	true	alignment	reported	27	1	15	43	43	0	0.627906976744186	0.0232558139534884	0.348837209302326
+Biopsy L	positive	true	kraken2	reported	42	19	105	166	330	164	0.253012048192771	0.114457831325301	0.632530120481928
+Biopsy M	positive	true	alignment	reported	12	0	0	12	12	0	1	0	0
+Biopsy M	positive	true	kraken2	reported	17	0	0	17	20	3	1	0	0
+Biopsy N	positive	false	alignment	suppressed_no_sequencing_call	0	0	1	1	1	0	0	0	1
+Biopsy N	positive	false	kraken2	suppressed_no_sequencing_call	2	0	1	3	8	5	0.666666666666667	0	0.333333333333333
+Biopsy O	positive	true	alignment	reported	296	0	0	296	296	0	1	0	0
+Biopsy O	positive	true	kraken2	reported	490	0	1	491	509	18	0.9979633401222	0	0.00203665987780041
+PCR-negative biopsy	negative	false	alignment	suppressed_no_sequencing_call	0	0	0	0	0	0			
+PCR-negative biopsy	negative	false	kraken2	suppressed_no_sequencing_call	1	0	0	1	1	0	1	0	0

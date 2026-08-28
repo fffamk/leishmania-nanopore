@@ -1,0 +1,22 @@
+species_pair	marker	median_differences	minimum_differences	maximum_differences	unique_sequence_pairs	alignment_sensitive_pairs	median_differences_per_100_columns
+L. tropica – L. aethiopica	ITS1	34.5	29	36	12	3	11.329515
+L. tropica – L. aethiopica	ITS2	52.5	43	62	44	42	12.139802
+L. tropica – L. aethiopica	Miniexon	44	39	100	12	6	11.594223
+L. tropica – L. aethiopica	HSP20	8.5	8	9	2	0	2.664577
+L. tropica – L. aethiopica	HSP70 coding	2	2	3	4	0	0.160643
+L. tropica – L. aethiopica	HSP70 3′ UTR	23	21	25	6	0	3.262417
+L. tropica – L. aethiopica	Cytochrome b	43	43	43	1	0	3.981481
+L. major – L. tropica	ITS1	51.5	49	54	8	0	16.693461
+L. major – L. tropica	ITS2	69	63	76	55	15	15.825688
+L. major – L. tropica	Miniexon	83	81	130	16	0	20.698254
+L. major – L. tropica	HSP20	13.5	13	14	2	0	4.231975
+L. major – L. tropica	HSP70 coding	12	12	15	12	0	0.963855
+L. major – L. tropica	HSP70 3′ UTR	60	57	63	4	0	8.281323
+L. major – L. tropica	Cytochrome b	64	64	64	1	0	5.925926
+L. major – L. aethiopica	ITS1	63	61	65	6	6	19.626168
+L. major – L. aethiopica	ITS2	84	74	93	20	12	18.791539
+L. major – L. aethiopica	Miniexon	93	88	94	12	12	22.962963
+L. major – L. aethiopica	HSP20	15	15	15	1	0	4.702194
+L. major – L. aethiopica	HSP70 coding	10	10	10	3	0	0.803213
+L. major – L. aethiopica	HSP70 3′ UTR	60	56	64	6	0	8.292164
+L. major – L. aethiopica	Cytochrome b	75	75	75	1	0	6.944444

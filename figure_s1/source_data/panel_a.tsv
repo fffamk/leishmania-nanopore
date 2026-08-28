@@ -1,0 +1,106 @@
+species_pair	marker	differences	differences_per_100_columns	alignment_stable
+L. infantum – L. donovani	ITS1	5	1.792115	yes
+L. infantum – L. donovani	ITS2	5	1.190476	yes
+L. infantum – L. donovani	Miniexon	40	16.064257	yes
+L. infantum – L. donovani	HSP20	0	0.000000	yes
+L. infantum – L. donovani	HSP70 coding	1	0.072464	yes
+L. infantum – L. donovani	HSP70 3′ UTR	26	3.547067	yes
+L. infantum – L. donovani	Cytochrome b	7	0.802752	yes
+L. panamensis – L. guyanensis	ITS1	1	0.384615	yes
+L. panamensis – L. guyanensis	ITS2	10	2.583979	yes
+L. panamensis – L. guyanensis	Miniexon	6	3.296703	yes
+L. panamensis – L. guyanensis	HSP20	0	0.000000	yes
+L. panamensis – L. guyanensis	HSP70 coding	4	0.289855	yes
+L. panamensis – L. guyanensis	HSP70 3′ UTR	7	1.192504	yes
+L. panamensis – L. guyanensis	Cytochrome b	11	1.261468	yes
+L. panamensis – L. braziliensis	ITS1	3	1.153846	yes
+L. panamensis – L. braziliensis	ITS2	14	3.608247	yes
+L. panamensis – L. braziliensis	Miniexon	8	4.347826	yes
+L. panamensis – L. braziliensis	HSP20	4	1.253918	yes
+L. panamensis – L. braziliensis	HSP70 coding	9	0.652174	yes
+L. panamensis – L. braziliensis	HSP70 3′ UTR	82	13.969336	yes
+L. panamensis – L. braziliensis	Cytochrome b	10	1.146789	yes
+L. guyanensis – L. braziliensis	ITS1	4	1.538462	yes
+L. guyanensis – L. braziliensis	ITS2	12	3.069054	yes
+L. guyanensis – L. braziliensis	Miniexon	10	5.434783	yes
+L. guyanensis – L. braziliensis	HSP20	4	1.253918	yes
+L. guyanensis – L. braziliensis	HSP70 coding	11	0.797101	yes
+L. guyanensis – L. braziliensis	HSP70 3′ UTR	83	14.188034	yes
+L. guyanensis – L. braziliensis	Cytochrome b	9	1.032110	yes
+L. mexicana – L. infantum	ITS1	67	22.185430	yes
+L. mexicana – L. infantum	ITS2	67	14.988814	yes
+L. mexicana – L. infantum	Miniexon	90	45.454545	no
+L. mexicana – L. infantum	HSP20	23	7.210031	yes
+L. mexicana – L. infantum	HSP70 coding	35	2.536232	yes
+L. mexicana – L. infantum	HSP70 3′ UTR	115	15.561570	no
+L. mexicana – L. infantum	Cytochrome b	83	9.518349	yes
+L. mexicana – L. donovani	ITS1	69	22.697368	yes
+L. mexicana – L. donovani	ITS2	68	15.212528	yes
+L. mexicana – L. donovani	Miniexon	235	62.334218	no
+L. mexicana – L. donovani	HSP20	23	7.210031	yes
+L. mexicana – L. donovani	HSP70 coding	34	2.463768	yes
+L. mexicana – L. donovani	HSP70 3′ UTR	100	13.812155	no
+L. mexicana – L. donovani	Cytochrome b	84	9.633028	yes
+L. mexicana – L. panamensis	ITS1	126	40.514469	yes
+L. mexicana – L. panamensis	ITS2	151	34.318182	yes
+L. mexicana – L. panamensis	Miniexon	145	55.133080	no
+L. mexicana – L. panamensis	HSP20	54	16.927900	yes
+L. mexicana – L. panamensis	HSP70 coding	76	5.507246	yes
+L. mexicana – L. panamensis	HSP70 3′ UTR	256	35.955056	no
+L. mexicana – L. panamensis	Cytochrome b	96	11.009174	yes
+L. mexicana – L. guyanensis	ITS1	127	40.836013	yes
+L. mexicana – L. guyanensis	ITS2	148	33.408578	no
+L. mexicana – L. guyanensis	Miniexon	147	55.471698	no
+L. mexicana – L. guyanensis	HSP20	54	16.927900	yes
+L. mexicana – L. guyanensis	HSP70 coding	78	5.652174	yes
+L. mexicana – L. guyanensis	HSP70 3′ UTR	259	36.376404	no
+L. mexicana – L. guyanensis	Cytochrome b	96	11.009174	yes
+L. mexicana – L. braziliensis	ITS1	124	40.129450	yes
+L. mexicana – L. braziliensis	ITS2	139	31.590909	no
+L. mexicana – L. braziliensis	Miniexon	148	55.430712	no
+L. mexicana – L. braziliensis	HSP20	51	15.987461	yes
+L. mexicana – L. braziliensis	HSP70 coding	75	5.434783	yes
+L. mexicana – L. braziliensis	HSP70 3′ UTR	295	41.903409	no
+L. mexicana – L. braziliensis	Cytochrome b	94	10.779817	yes
+L. infantum – L. panamensis	ITS1	89	30.272109	yes
+L. infantum – L. panamensis	ITS2	133	31.147541	no
+L. infantum – L. panamensis	Miniexon	105	69.078947	no
+L. infantum – L. panamensis	HSP20	52	16.300940	yes
+L. infantum – L. panamensis	HSP70 coding	66	4.782609	yes
+L. infantum – L. panamensis	HSP70 3′ UTR	290	38.926174	no
+L. infantum – L. panamensis	Cytochrome b	90	10.321101	yes
+L. infantum – L. guyanensis	ITS1	89	30.272109	yes
+L. infantum – L. guyanensis	ITS2	130	30.232558	no
+L. infantum – L. guyanensis	Miniexon	104	68.421053	no
+L. infantum – L. guyanensis	HSP20	52	16.300940	yes
+L. infantum – L. guyanensis	HSP70 coding	68	4.927536	yes
+L. infantum – L. guyanensis	HSP70 3′ UTR	293	39.328859	no
+L. infantum – L. guyanensis	Cytochrome b	89	10.206422	yes
+L. infantum – L. braziliensis	ITS1	87	29.794521	yes
+L. infantum – L. braziliensis	ITS2	122	28.571429	no
+L. infantum – L. braziliensis	Miniexon	105	69.078947	no
+L. infantum – L. braziliensis	HSP20	48	15.047022	yes
+L. infantum – L. braziliensis	HSP70 coding	66	4.782609	yes
+L. infantum – L. braziliensis	HSP70 3′ UTR	334	45.196211	no
+L. infantum – L. braziliensis	Cytochrome b	86	9.862385	yes
+L. donovani – L. panamensis	ITS1	90	30.405405	yes
+L. donovani – L. panamensis	ITS2	133	31.147541	no
+L. donovani – L. panamensis	Miniexon	287	77.567568	no
+L. donovani – L. panamensis	HSP20	52	16.300940	yes
+L. donovani – L. panamensis	HSP70 coding	65	4.710145	yes
+L. donovani – L. panamensis	HSP70 3′ UTR	278	37.978142	no
+L. donovani – L. panamensis	Cytochrome b	93	10.665138	yes
+L. donovani – L. guyanensis	ITS1	90	30.405405	yes
+L. donovani – L. guyanensis	ITS2	130	30.232558	no
+L. donovani – L. guyanensis	Miniexon	286	77.297297	no
+L. donovani – L. guyanensis	HSP20	52	16.300940	yes
+L. donovani – L. guyanensis	HSP70 coding	67	4.855072	yes
+L. donovani – L. guyanensis	HSP70 3′ UTR	281	38.387978	no
+L. donovani – L. guyanensis	Cytochrome b	92	10.550459	yes
+L. donovani – L. braziliensis	ITS1	88	29.931973	yes
+L. donovani – L. braziliensis	ITS2	122	28.571429	yes
+L. donovani – L. braziliensis	Miniexon	284	76.549865	no
+L. donovani – L. braziliensis	HSP20	48	15.047022	yes
+L. donovani – L. braziliensis	HSP70 coding	65	4.710145	yes
+L. donovani – L. braziliensis	HSP70 3′ UTR	319	43.939394	no
+L. donovani – L. braziliensis	Cytochrome b	89	10.206422	yes

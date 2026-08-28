@@ -1,0 +1,25 @@
+mode	sample_count	checkpoint_hours	primary_bases
+Standard	3	0.25	126753884
+Standard	3	0.5	269700701
+Standard	3	1.0	551631524
+Standard	3	2.0	1076292088
+Standard	3	4.0	2105507539
+Standard	3	8.0	3958567103
+Standard	3	12.0	5483429338
+Standard	3	24.0	8652359054
+Target enrichment	3	0.25	21198259
+Target enrichment	3	0.5	42950477
+Target enrichment	3	1.0	82062779
+Target enrichment	3	2.0	150649885
+Target enrichment	3	4.0	268135344
+Target enrichment	3	8.0	448002448
+Target enrichment	3	12.0	565149553
+Target enrichment	3	24.0	742393697
+Human depletion	16	0.25	46971673
+Human depletion	16	0.5	102140797
+Human depletion	16	1.0	204403425
+Human depletion	16	2.0	380545266
+Human depletion	16	4.0	691371099
+Human depletion	16	8.0	1186116588
+Human depletion	16	12.0	1514486020
+Human depletion	16	24.0	1994611411

@@ -1,0 +1,6 @@
+unit_id	heldout_strain	true_species	fragment_length	stride	fragment_count
+holdout__lmajor_jrcgr_lm01	JRCGR Lm01	Leishmania major	3000	10000	3251
+holdout__ltropica_mhom_lb_2017_ik	MHOM/LB/2017/IK	Leishmania tropica	3000	10000	2235
+holdout__ltropica_mhom_lb_2015_ik	MHOM/LB/2015/IK	Leishmania tropica	3000	10000	3453
+holdout__laethiopica_l147	L147	Leishmania aethiopica	3000	10000	3006
+holdout__ldonovani_hu3	HU3	Leishmania donovani	3000	10000	3310

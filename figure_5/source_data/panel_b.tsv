@@ -1,0 +1,113 @@
+biopsy	pcr_status	marker_label	best_species	independent_reads
+Biopsy A	positive	ITS1		0
+Biopsy A	positive	ITS2		0
+Biopsy A	positive	Miniexon		0
+Biopsy A	positive	HSP20		0
+Biopsy A	positive	HSP70 coding		0
+Biopsy A	positive	HSP70 3′ UTR		0
+Biopsy A	positive	Cytochrome b		0
+Biopsy B	positive	ITS1		0
+Biopsy B	positive	ITS2		0
+Biopsy B	positive	Miniexon		0
+Biopsy B	positive	HSP20		0
+Biopsy B	positive	HSP70 coding		0
+Biopsy B	positive	HSP70 3′ UTR		0
+Biopsy B	positive	Cytochrome b		0
+Biopsy C	positive	ITS1		0
+Biopsy C	positive	ITS2		0
+Biopsy C	positive	Miniexon		0
+Biopsy C	positive	HSP20		0
+Biopsy C	positive	HSP70 coding		0
+Biopsy C	positive	HSP70 3′ UTR		0
+Biopsy C	positive	Cytochrome b		0
+Biopsy D	positive	ITS1	Leishmania major	1
+Biopsy D	positive	ITS2		0
+Biopsy D	positive	Miniexon	Leishmania major	2
+Biopsy D	positive	HSP20		0
+Biopsy D	positive	HSP70 coding		0
+Biopsy D	positive	HSP70 3′ UTR	Leishmania major	1
+Biopsy D	positive	Cytochrome b		0
+Biopsy E	positive	ITS1		0
+Biopsy E	positive	ITS2		0
+Biopsy E	positive	Miniexon	Leishmania major	1
+Biopsy E	positive	HSP20		0
+Biopsy E	positive	HSP70 coding		0
+Biopsy E	positive	HSP70 3′ UTR		0
+Biopsy E	positive	Cytochrome b		0
+Biopsy F	positive	ITS1		0
+Biopsy F	positive	ITS2		0
+Biopsy F	positive	Miniexon	Leishmania major	3
+Biopsy F	positive	HSP20		0
+Biopsy F	positive	HSP70 coding	Leishmania major	1
+Biopsy F	positive	HSP70 3′ UTR	Leishmania major	1
+Biopsy F	positive	Cytochrome b		0
+Biopsy G	positive	ITS1		0
+Biopsy G	positive	ITS2		0
+Biopsy G	positive	Miniexon		0
+Biopsy G	positive	HSP20		0
+Biopsy G	positive	HSP70 coding		0
+Biopsy G	positive	HSP70 3′ UTR		0
+Biopsy G	positive	Cytochrome b		0
+Biopsy H	positive	ITS1		0
+Biopsy H	positive	ITS2		0
+Biopsy H	positive	Miniexon		0
+Biopsy H	positive	HSP20		0
+Biopsy H	positive	HSP70 coding		0
+Biopsy H	positive	HSP70 3′ UTR		0
+Biopsy H	positive	Cytochrome b	Leishmania major	1
+Biopsy I	positive	ITS1		0
+Biopsy I	positive	ITS2		0
+Biopsy I	positive	Miniexon	Leishmania major	1
+Biopsy I	positive	HSP20		0
+Biopsy I	positive	HSP70 coding		0
+Biopsy I	positive	HSP70 3′ UTR		0
+Biopsy I	positive	Cytochrome b		0
+Biopsy J	positive	ITS1		0
+Biopsy J	positive	ITS2		0
+Biopsy J	positive	Miniexon		0
+Biopsy J	positive	HSP20		0
+Biopsy J	positive	HSP70 coding		0
+Biopsy J	positive	HSP70 3′ UTR		0
+Biopsy J	positive	Cytochrome b		0
+Biopsy K	positive	ITS1	Leishmania tropica	1
+Biopsy K	positive	ITS2		0
+Biopsy K	positive	Miniexon	Leishmania tropica	5
+Biopsy K	positive	HSP20		0
+Biopsy K	positive	HSP70 coding		0
+Biopsy K	positive	HSP70 3′ UTR		0
+Biopsy K	positive	Cytochrome b	Leishmania tropica	2
+Biopsy L	positive	ITS1		0
+Biopsy L	positive	ITS2	Leishmania tropica	1
+Biopsy L	positive	Miniexon		0
+Biopsy L	positive	HSP20		0
+Biopsy L	positive	HSP70 coding	Leishmania major	1
+Biopsy L	positive	HSP70 3′ UTR		0
+Biopsy L	positive	Cytochrome b		0
+Biopsy M	positive	ITS1		0
+Biopsy M	positive	ITS2		0
+Biopsy M	positive	Miniexon		0
+Biopsy M	positive	HSP20		0
+Biopsy M	positive	HSP70 coding		0
+Biopsy M	positive	HSP70 3′ UTR		0
+Biopsy M	positive	Cytochrome b		0
+Biopsy N	positive	ITS1		0
+Biopsy N	positive	ITS2		0
+Biopsy N	positive	Miniexon		0
+Biopsy N	positive	HSP20		0
+Biopsy N	positive	HSP70 coding		0
+Biopsy N	positive	HSP70 3′ UTR		0
+Biopsy N	positive	Cytochrome b		0
+Biopsy O	positive	ITS1		0
+Biopsy O	positive	ITS2		0
+Biopsy O	positive	Miniexon		0
+Biopsy O	positive	HSP20		0
+Biopsy O	positive	HSP70 coding		0
+Biopsy O	positive	HSP70 3′ UTR		0
+Biopsy O	positive	Cytochrome b		0
+PCR-negative biopsy	negative	ITS1		0
+PCR-negative biopsy	negative	ITS2		0
+PCR-negative biopsy	negative	Miniexon		0
+PCR-negative biopsy	negative	HSP20		0
+PCR-negative biopsy	negative	HSP70 coding		0
+PCR-negative biopsy	negative	HSP70 3′ UTR		0
+PCR-negative biopsy	negative	Cytochrome b		0
